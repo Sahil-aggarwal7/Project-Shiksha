@@ -133,26 +133,3 @@ NOTE: Make sure you download the MongoDBCompass and connect it locally before yo
 PROOF OF TRANSACTION IN THE BACKEND:
 
 ![image](https://user-images.githubusercontent.com/80589550/200233063-06e4a07a-6d50-48c1-9b22-4de44245ce0e.png)
-
-
-# ABOUT US :
-
-We are a group of Blockchain developers and learners from SRM Institute of Science and Technology.
-
-OUR TEAM:
-
-NISHANTH RAO DUGYALA 
-
-Akriti Verma
-
-NIKHIL YADAV
-
-Sahil Aggarwal
-
-# Thank you 
-
-We are really thank you for your valuable time in looking into our project_SHIKSHA, we would be really happy if you can share your ideas too.
-
-please feel free to mail me any ideas you have, we can make a small network of developers who can combinely share the ideas and learn more about Blockchain and WEB3 application in the realtime scenarios.
-
-Youtube : https://youtu.be/nGaIG4XTJBg
